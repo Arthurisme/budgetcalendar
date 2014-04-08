@@ -1,4 +1,4 @@
-package com.uangel.suishouji.db;
+package com.bc.db;
 
 public class MyDbInfo {
 	

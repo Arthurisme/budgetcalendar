@@ -1,4 +1,4 @@
-package com.uangel.suishouji.db;
+package com.bc.db;
 
 import android.content.ContentValues;
 import android.content.Context;
