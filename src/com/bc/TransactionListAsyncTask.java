@@ -10,7 +10,7 @@ import java.util.ListIterator;
 
 import com.bc.db.MyDbHelper;
 import com.bc.db.MyDbInfo;
-import com.bci.utility.MyDialog;
+import com.bc.utility.MyDialog;
 
 import android.database.Cursor;
 import android.os.AsyncTask;

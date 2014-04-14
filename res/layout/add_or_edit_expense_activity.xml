@@ -5,18 +5,18 @@
 	xmlns:lineBarView="http://schemas.android.com/apk/res/com.mymoney">
 	<LinearLayout android:orientation="vertical" android:id="@+id/main_ly"
 		android:layout_width="fill_parent" android:layout_height="fill_parent">
-		<TextView android:id="@+id/title_tv" android:text="记账"
+		<TextView android:id="@+id/title_tv" android:text="recording"
 			style="@style/common_title" android:visibility="gone" />
 		<RadioGroup android:orientation="horizontal" android:id="@+id/trans_type_tab_rg"
 			android:layout_width="fill_parent" android:layout_height="wrap_content">
 			<RadioButton android:id="@+id/payout_tab_rb"
 				android:background="@drawable/widget_btn_radio_label_background"
 				android:layout_width="160.0dip" android:layout_height="46.0dip"
-				android:button="@drawable/payout_tab_btn_radio" android:text="支出" />
+				android:button="@drawable/payout_tab_btn_radio" android:text="spend" />
 			<RadioButton android:id="@+id/income_tab_rb"
 				android:background="@drawable/widget_btn_radio_label_background"
 				android:layout_width="160.0dip" android:layout_height="46.0dip"
-				android:button="@drawable/income_tab_btn_radio" android:text="收入" />
+				android:button="@drawable/income_tab_btn_radio" android:text="income" />
 		</RadioGroup>
 		<ScrollView android:scrollbars="none" android:layout_width="fill_parent"
 			android:layout_height="wrap_content">

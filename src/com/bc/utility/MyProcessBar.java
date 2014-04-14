@@ -1,4 +1,4 @@
-package com.bci.utility;
+package com.bc.utility;
 
 import com.bc.R;
 

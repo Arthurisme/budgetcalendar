@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 import com.bc.db.MyDbHelper;
-import com.bci.utility.MyProcessBar;
+import com.bc.utility.MyProcessBar;
 
 import android.app.Activity;
 import android.app.AlertDialog;
